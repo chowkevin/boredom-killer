@@ -2,7 +2,7 @@
 
 PLEASE END MY BOREDOM
 
-## Hmm
+## Jump To
 
 - [Games](#games)
 - [Movies](#movies)
@@ -10,9 +10,9 @@ PLEASE END MY BOREDOM
 
 ## Games
 ### Casual
-- [Play Emulator](https://www.playemulator.com/)
+- [Play Emulator](https://www.playemulator.com/) Play classic games on an emulator right in your browser
 ### Mobile
-- [Cytus](https://play.google.com/store/apps/details?id=com.rayark.Cytus.full&hl=en_CA&gl=US)
+- [Cytus](https://play.google.com/store/apps/details?id=com.rayark.Cytus.full&hl=en_CA&gl=US) 
 - [Deemo](https://play.google.com/store/apps/details?id=com.rayark.pluto&hl=en_US)
 - [Voez](https://play.google.com/store/apps/details?id=com.rayark.valkyrie&utm_source=www.apk4fun.com)
 ## Movies
@@ -26,5 +26,5 @@ PLEASE END MY BOREDOM
 - [Good Girls](https://www.netflix.com/title/80177342)
 - [Cobra Kai](https://www.netflix.com/title/81002370)
 ## Music
-- [Lo-Fi Beats](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn)
-- [K-Pop Daebak](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
+- [Lo-Fi Beats](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn) Playlist of lo-fi songs
+- [K-Pop Daebak](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1) Playlist of K-pop
