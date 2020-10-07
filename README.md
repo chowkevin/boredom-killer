@@ -8,8 +8,8 @@ PLEASE END MY BOREDOM
 - [Movies](#movies)
 - [Music](#music)
 
-##Games
+## Games
 
-##Movies
+## Movies
 
-##Music
+## Music
