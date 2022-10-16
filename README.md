@@ -11,6 +11,7 @@ PLEASE END MY BOREDOM
 ## Games
 ### Casual
 - [Play Emulator](https://www.playemulator.com/) Play classic games on an emulator right in your browser
+- [GOG Games](https://gog-games.com/) Download free GOG Games
 ### Mobile
 - [Cytus](https://play.google.com/store/apps/details?id=com.rayark.Cytus.full) 
 - [Deemo](https://play.google.com/store/apps/details?id=com.rayark.pluto)
@@ -35,7 +36,11 @@ PLEASE END MY BOREDOM
 - [Extracurricular](https://www.netflix.com/title/80990668)
 - [Sex Education](https://www.netflix.com/title/80197526)
 - [The End of the F***ing World](https://www.netflix.com/title/80175722)
+- [Dark](https://www.netflix.com/ca/title/80100172)
+- [Black Mirror](https://www.netflix.com/title/70264888)
 ## Music
 - [Lo-Fi Beats](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn) Playlist of lo-fi songs
 - [K-Pop Daebak](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1) Playlist of K-pop
 - [Today's Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M?si=12208dfb757d4a2e)
+- [Chinese Songs](https://open.spotify.com/playlist/78npmdhVDUHrLljjCZHWdc?si=83f0822ab6864f60)
+- [TikTok Songs](https://open.spotify.com/playlist/0msdboCKHlyX7fj8Mr9ktr?si=940e601ed4ec430c)
